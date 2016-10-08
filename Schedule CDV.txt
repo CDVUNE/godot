@@ -1,0 +1,7 @@
+﻿14/10/16 - Intro del juego
+21/10/16 - Movimientos basicos
+28/10/16 - Movimientos del enemigo
+04/11/16 - Diseño del nivel/ Musica
+11/11/16 - Boss
+18/11/16 - Testing
+
